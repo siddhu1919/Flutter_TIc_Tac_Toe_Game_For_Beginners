@@ -22,7 +22,7 @@ Welcome to the **Tic Tac Toe** Flutter project! This project is a beginner-frien
   - Updates after each turn
 - **Image**
 
-<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/0fd25654-a7ad-4815-b8ce-36693430c8e9"  width="600" height="300" />
+<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/0fd25654-a7ad-4815-b8ce-36693430c8e9"  width="300" height="200" />
 
 
 ### 🤝 Game Draw Screen
