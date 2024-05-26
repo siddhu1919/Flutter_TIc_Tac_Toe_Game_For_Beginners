@@ -2,30 +2,48 @@
 
 Welcome to the **Tic Tac Toe** Flutter project! This project is a beginner-friendly implementation of the classic Tic Tac Toe game with a beautiful UI, featuring a home screen, a chance counter, a game draw screen, and a winner screen. Perfect for learning and having fun with Flutter! 🚀
 
+![Flutter TicTacToe](https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/896127d0-12ef-42ee-8eb0-0005c9c2a174)
+
+
 ## 📱 Screens Overview
 
 ### 🏠 Home Screen
 - **Description:** The starting point of the game. Users can start a new game or view the game rules.
 - **Features:** 
   - Start Game Screen
+- **Image**
+
+<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/60abf620-0557-4628-bb42-b613f830959b"  width="350" height="600" />
 
 ### 🧮 Chance Counter
 - **Description:** Displays whose turn it is (X or O) during the game.
 - **Features:** 
   - Indicates current player
   - Updates after each turn
+- **Image**
+
+<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/0fd25654-a7ad-4815-b8ce-36693430c8e9"  width="350" height="600" />
+
 
 ### 🤝 Game Draw Screen
 - **Description:** Appears when the game ends in a draw.
 - **Features:** 
   - Display message for draw
   - Option to restart the game
+- **Image**
+
+
+<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/ae8aac38-6e0f-4390-94da-4ec208b940c7"  width="350" height="600" />
 
 ### 🏆 Winner Screen
 - **Description:** Appears when there is a winner.
 - **Features:** 
   - Display the winner (X or O)
   - Option to restart the game
+- **Image**
+
+<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/338876dd-eff1-4201-b337-37cf6765871e"  width="350" height="600" />
+
 
 ## 🚀 Getting Started
 
