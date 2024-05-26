@@ -2,6 +2,7 @@
 
 Welcome to the **Tic Tac Toe** Flutter project! This project is a beginner-friendly implementation of the classic Tic Tac Toe game with a beautiful UI, featuring a home screen, a chance counter, a game draw screen, and a winner screen. Perfect for learning and having fun with Flutter! 🚀
 
+⚠️Please wait for gif to be loaded!
 ![Flutter TicTacToe](https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/896127d0-12ef-42ee-8eb0-0005c9c2a174)
 
 
