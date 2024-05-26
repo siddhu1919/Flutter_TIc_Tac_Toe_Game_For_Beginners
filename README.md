@@ -13,7 +13,7 @@ Welcome to the **Tic Tac Toe** Flutter project! This project is a beginner-frien
   - Start Game Screen
 - **Image**
 
-<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/60abf620-0557-4628-bb42-b613f830959b"  width="350" height="600" />
+<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/60abf620-0557-4628-bb42-b613f830959b"  width="350" height="650" />
 
 ### 🧮 Chance Counter
 - **Description:** Displays whose turn it is (X or O) during the game.
@@ -22,7 +22,7 @@ Welcome to the **Tic Tac Toe** Flutter project! This project is a beginner-frien
   - Updates after each turn
 - **Image**
 
-<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/0fd25654-a7ad-4815-b8ce-36693430c8e9"  width="350" height="600" />
+<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/0fd25654-a7ad-4815-b8ce-36693430c8e9"  width="600" height="300" />
 
 
 ### 🤝 Game Draw Screen
@@ -33,7 +33,7 @@ Welcome to the **Tic Tac Toe** Flutter project! This project is a beginner-frien
 - **Image**
 
 
-<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/ae8aac38-6e0f-4390-94da-4ec208b940c7"  width="350" height="600" />
+<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/ae8aac38-6e0f-4390-94da-4ec208b940c7"  width="350" height="650" />
 
 ### 🏆 Winner Screen
 - **Description:** Appears when there is a winner.
@@ -42,7 +42,7 @@ Welcome to the **Tic Tac Toe** Flutter project! This project is a beginner-frien
   - Option to restart the game
 - **Image**
 
-<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/338876dd-eff1-4201-b337-37cf6765871e"  width="350" height="600" />
+<img src="https://github.com/siddhu1919/Flutter_TIc_Tac_Toe_Game_For_Beginners/assets/85176765/338876dd-eff1-4201-b337-37cf6765871e"  width="350" height="650" />
 
 
 ## 🚀 Getting Started
